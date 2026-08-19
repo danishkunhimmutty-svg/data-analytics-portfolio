@@ -12,6 +12,10 @@ Retail data visualisation project completed as part of the Tata "Data Visualisat
 ### 💳 [Standard Chartered: Credit Analyst](./standard-chartered-credit-analyst-forage)
 Credit analysis project completed as part of the Standard Chartered Credit Analyst job simulation on Forage. Includes financial statement analysis, key credit ratio calculation (leverage, liquidity, profitability), industry/macroeconomic research, and a client credit review report and presentation.
 
+
+### 🛒 [Ecommerce Purchases Analysis](./ecommerce-purchases-analysis)
+Exploratory analysis of 10,000 ecommerce transactions using Pandas — covering purchase price trends, payment methods, browsing patterns, and targeted customer lookups.
+
 ---
 
 ## Skills Demonstrated
