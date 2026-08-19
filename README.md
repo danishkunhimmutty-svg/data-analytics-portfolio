@@ -16,6 +16,10 @@ Credit analysis project completed as part of the Standard Chartered Credit Analy
 ### 🛒 [Ecommerce Purchases Analysis](./ecommerce-purchases-analysis)
 Exploratory analysis of 10,000 ecommerce transactions using Pandas — covering purchase price trends, payment methods, browsing patterns, and targeted customer lookups.
 
+
+### 👥 [Employee Salary Analysis](./employee-salary-analysis)
+Analysis of 148,654 San Francisco city employee salary records (2011–2014) using Pandas — pay trends over time, top earners, job title patterns, and a flagged data-quality anomaly.
+
 ---
 
 ## Skills Demonstrated
