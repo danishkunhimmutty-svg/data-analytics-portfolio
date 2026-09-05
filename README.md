@@ -12,6 +12,9 @@ Exploratory analysis of 10,000 ecommerce transactions using Pandas — covering 
 ### 👥 [Employee Salary Analysis](./employee-salary-analysis)
 Analysis of 148,654 San Francisco city employee salary records (2011–2014) using Pandas — pay trends over time, top earners, job title patterns, and a flagged data-quality anomaly.
 
+### 🧑‍💼 [HR Employee Attrition Analysis](./hr-attrition-analysis)
+Analysis of 1,470 employee records (IBM HR Analytics dataset) using Pandas, Seaborn, and Scikit-learn — identified key drivers of attrition (overtime, job role, compensation, tenure), built a logistic regression model (87.4% accuracy), and produced a findings & recommendations report.
+
 ### 🏦 [Failed Banks Analysis](./failed-banks-analysis)
 Analysis of the FDIC's official failed bank list, scraped live from fdic.gov using Pandas — failure trends by year, state, and acquiring institution.
 
@@ -25,10 +28,11 @@ Credit analysis project completed as part of the Standard Chartered Credit Analy
 
 ## Skills Demonstrated
 - Data analysis & visualisation (Power BI, Excel, Python — Pandas, NumPy, Matplotlib, Plotly)
+- Predictive modeling & classification (Scikit-learn — logistic regression)
 - Web scraping and data collection (`pd.read_html`)
 - Financial statement and ratio analysis
 - Business and industry research
 - Report writing and stakeholder presentation
-
+- 
 ## About
 Building this portfolio alongside my data analytics upskilling (Power BI, Excel, Python) and ongoing job search. Each folder contains a project README with the scenario, approach, and key findings.
