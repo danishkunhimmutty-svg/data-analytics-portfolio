@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Python, Excel & Power BI projects — data analytics portfolio
+Python, Excel, Sql & Power BI projects — data analytics portfolio
 
 ## Projects
 
