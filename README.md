@@ -3,6 +3,9 @@ Python, Excel & Power BI projects — data analytics portfolio
 
 ## Projects
 
+### ✈️ [Airline Route Profitability & Flight Operations Analytics](./flight-analytics-project)
+End-to-end Power BI project analyzing commercial route profitability and flight operations (OTP) for a simulated 4-hub, 25-route airline network. Built a star schema data model, a Python (Pandas/NumPy) synthetic data generator producing 10,700+ realistic flight records, dynamic Power Query (M) transformations, and a 48-measure DAX library covering RASK, CASK, Load Factor, Yield, and delay root-cause diagnostics. Identified a loss-making route and quantified reactionary delay cascades as the top controllable OTP driver.
+
 ### 📈 [Retail Sales Performance Analysis](./retail-sales-performance-analysis)
 Exploratory data analysis of 1,000 retail orders using Python (Pandas, Matplotlib, Plotly). Covers regional and category sales performance, top customers and products, a discount-vs-profit regression (found a -0.85 correlation), monthly sales trend, and delivery time analysis.
 
@@ -27,12 +30,14 @@ Credit analysis project completed as part of the Standard Chartered Credit Analy
 ---
 
 ## Skills Demonstrated
-- Data analysis & visualisation (Power BI, Excel, Python — Pandas, NumPy, Matplotlib, Plotly)
+- Data modeling & star schema design (fact/dimension tables, relationship cardinality)
+- Data analysis & visualisation (Power BI, DAX, Power Query/M, Excel, Python — Pandas, NumPy, Matplotlib, Plotly)
 - Predictive modeling & classification (Scikit-learn — logistic regression)
+- Synthetic data generation for realistic testing/demo datasets
 - Web scraping and data collection (`pd.read_html`)
 - Financial statement and ratio analysis
 - Business and industry research
 - Report writing and stakeholder presentation
-- 
+
 ## About
 Building this portfolio alongside my data analytics upskilling (Power BI, Excel, Python) and ongoing job search. Each folder contains a project README with the scenario, approach, and key findings.
