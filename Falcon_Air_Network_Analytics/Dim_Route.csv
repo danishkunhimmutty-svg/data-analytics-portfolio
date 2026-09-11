@@ -1,0 +1,26 @@
+RouteKey,RouteID,OriginAirportCode,OriginAirportName,HubAirport,DestinationAirportCode,DestinationAirportName,RouteType,HaulCategory,DistanceKM,PrimaryAircraftType
+1,AUH-LHR,AUH,Abu Dhabi Intl,AUH,LHR,London Heathrow,International,Long Haul,5710,B787-9
+2,AUH-JFK,AUH,Abu Dhabi Intl,AUH,JFK,New York JFK,International,Ultra Long Haul,11690,B787-9
+3,AUH-BOM,AUH,Abu Dhabi Intl,AUH,BOM,Mumbai Chhatrapati,Regional,Medium Haul,1950,A320
+4,AUH-DEL,AUH,Abu Dhabi Intl,AUH,DEL,Delhi Indira Gandhi,Regional,Medium Haul,2190,B737-800
+5,AUH-COK,AUH,Abu Dhabi Intl,AUH,COK,Kochi Intl,Regional,Medium Haul,2620,B737-800
+6,AUH-BKK,AUH,Abu Dhabi Intl,AUH,BKK,Bangkok Suvarnabhumi,International,Long Haul,5000,B787-9
+7,AUH-MNL,AUH,Abu Dhabi Intl,AUH,MNL,Manila Ninoy Aquino,International,Long Haul,7770,B787-9
+8,AUH-CAI,AUH,Abu Dhabi Intl,AUH,CAI,Cairo Intl,Regional,Medium Haul,2410,B737-800
+9,DXB-LHR,DXB,Dubai Intl,DXB,LHR,London Heathrow,International,Long Haul,5500,B787-9
+10,DXB-JFK,DXB,Dubai Intl,DXB,JFK,New York JFK,International,Ultra Long Haul,11000,B787-9
+11,DXB-CDG,DXB,Dubai Intl,DXB,CDG,Paris Charles de Gaulle,International,Long Haul,5240,B787-9
+12,DXB-BOM,DXB,Dubai Intl,DXB,BOM,Mumbai Chhatrapati,Regional,Medium Haul,1930,A320
+13,DXB-SIN,DXB,Dubai Intl,DXB,SIN,Singapore Changi,International,Long Haul,5850,B787-9
+14,DXB-HKG,DXB,Dubai Intl,DXB,HKG,Hong Kong Intl,International,Long Haul,5990,B787-9
+15,DXB-IST,DXB,Dubai Intl,DXB,IST,Istanbul Airport,Regional,Medium Haul,3000,B787-9
+16,DOH-LHR,DOH,Hamad Intl,DOH,LHR,London Heathrow,International,Long Haul,5240,B787-9
+17,DOH-FRA,DOH,Hamad Intl,DOH,FRA,Frankfurt Main,International,Long Haul,4680,B787-9
+18,DOH-BOM,DOH,Hamad Intl,DOH,BOM,Mumbai Chhatrapati,Regional,Medium Haul,1900,A320
+19,DOH-KHI,DOH,Hamad Intl,DOH,KHI,Karachi Jinnah,Regional,Short Haul,1330,B737-800
+20,DOH-BKK,DOH,Hamad Intl,DOH,BKK,Bangkok Suvarnabhumi,International,Long Haul,4880,B787-9
+21,DOH-CAI,DOH,Hamad Intl,DOH,CAI,Cairo Intl,Regional,Medium Haul,2110,B737-800
+22,RUH-CAI,RUH,King Khalid Intl,RUH,CAI,Cairo Intl,Regional,Short Haul,1480,B737-800
+23,RUH-IST,RUH,King Khalid Intl,RUH,IST,Istanbul Airport,Regional,Medium Haul,2600,B787-9
+24,RUH-BOM,RUH,King Khalid Intl,RUH,BOM,Mumbai Chhatrapati,Regional,Medium Haul,2530,B737-800
+25,RUH-LHR,RUH,King Khalid Intl,RUH,LHR,London Heathrow,International,Long Haul,5140,B787-9

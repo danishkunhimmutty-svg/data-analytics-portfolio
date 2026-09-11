@@ -1,0 +1,11 @@
+DelayCodeKey,DelayCode,DelayCategory,DelayDescription,IsCarrierControllable
+1,DEL00,No Delay,On-time or within buffer - no delay code applied,False
+2,ATC01,ATC,Air Traffic Control flow restriction / routing delay,False
+3,ATC02,ATC,Airspace / slot congestion at destination,False
+4,CXR01,Carrier,Late crew report / crew scheduling,True
+5,CXR02,Carrier,Aircraft technical / maintenance hold,True
+6,CXR03,Carrier,Cabin readiness / catering delay,True
+7,WX01,Weather,Departure station adverse weather,False
+8,WX02,Weather,Destination / enroute weather diversion risk,False
+9,RCT01,Reactionary,Late inbound aircraft rotation,True
+10,RCT02,Reactionary,Late connecting passengers / baggage,True
